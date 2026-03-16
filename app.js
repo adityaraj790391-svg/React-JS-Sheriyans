@@ -20,3 +20,5 @@ export const skills = ['Frontend', 'Backend' , 'UI/UX']
 
 export default user
 
+const users = 'Sarthak' ;
+
